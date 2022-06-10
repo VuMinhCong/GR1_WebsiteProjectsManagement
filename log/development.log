@@ -1,0 +1,2414 @@
+Started GET "/" for 127.0.0.1 at 2022-06-09 02:09:50 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/7d2209b9618aed80/variables" for 127.0.0.1 at 2022-06-09 02:09:50 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-09 02:10:13 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:10:13 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:10:28 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:10:29 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:10:29 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:10:30 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:10:31 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:10:32 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:10:34 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-09 02:21:05 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/81627eceb10c78a4/variables" for 127.0.0.1 at 2022-06-09 02:21:05 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:21:49 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:33:42 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:33:43 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:33:44 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:33:45 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:33:45 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:33:46 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:33:47 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:33:48 +0700
+Started POST "/__better_errors/bb9386ffcfe499bd/variables" for 127.0.0.1 at 2022-06-09 02:33:48 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-09 02:35:55 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/83fdfad24669166f/variables" for 127.0.0.1 at 2022-06-09 02:35:57 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-09 02:39:06 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/567a96ded1d86e66/variables" for 127.0.0.1 at 2022-06-09 02:39:07 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-09 23:22:18 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/e37592762af89da2/variables" for 127.0.0.1 at 2022-06-09 23:22:18 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-09 23:40:42 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/164023b758642481/variables" for 127.0.0.1 at 2022-06-09 23:40:42 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-09 23:48:46 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/030ddf22951d99d5/variables" for 127.0.0.1 at 2022-06-09 23:48:46 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-09 23:57:53 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/4091c66017eb8cfe/variables" for 127.0.0.1 at 2022-06-09 23:57:53 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-09 23:59:27 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/2add2ca25daaea76/variables" for 127.0.0.1 at 2022-06-09 23:59:27 +0700
+Started POST "/__better_errors/2add2ca25daaea76/variables" for 127.0.0.1 at 2022-06-10 00:00:33 +0700
+Started POST "/__better_errors/2add2ca25daaea76/variables" for 127.0.0.1 at 2022-06-10 00:00:38 +0700
+Started POST "/__better_errors/2add2ca25daaea76/variables" for 127.0.0.1 at 2022-06-10 00:00:39 +0700
+Started POST "/__better_errors/2add2ca25daaea76/variables" for 127.0.0.1 at 2022-06-10 00:01:10 +0700
+Started POST "/__better_errors/2add2ca25daaea76/variables" for 127.0.0.1 at 2022-06-10 00:01:11 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:34:19 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/5f8ecc3a3db27741/variables" for 127.0.0.1 at 2022-06-10 00:34:19 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:37:00 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/028dc80041aee1ae/variables" for 127.0.0.1 at 2022-06-10 00:37:00 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:38:08 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/6b4eccd3c4032ef7/variables" for 127.0.0.1 at 2022-06-10 00:38:09 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:38:27 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/b292cf2d9a295702/variables" for 127.0.0.1 at 2022-06-10 00:38:27 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:38:29 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/cc4f4495e712c720/variables" for 127.0.0.1 at 2022-06-10 00:38:29 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/46c43869f75242bf/variables" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/b876ffe5e7d79f28/variables" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/69a1f9155e8c19f3/variables" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/03ef5634fc7ea330/variables" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/bb1019e24eab13e6/variables" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/d5dabbe4c1a5f62d/variables" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:38:30 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/373df0dea7ee7d95/variables" for 127.0.0.1 at 2022-06-10 00:38:31 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:38:31 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/0850f170f11b28c1/variables" for 127.0.0.1 at 2022-06-10 00:38:31 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 00:38:31 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/25fffe5968679533/variables" for 127.0.0.1 at 2022-06-10 00:38:31 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 03:23:51 +0700
+
+PG::ConnectionBad - connection to server on socket "/tmp/.s.PGSQL.5432" failed: FATAL:  role "projekt" does not exist
+:
+
+Started POST "/__better_errors/bb5fbacc12dd9517/variables" for 127.0.0.1 at 2022-06-10 03:23:51 +0700
+  [1m[35m (9.9ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  [1m[35m (1.1ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT pg_try_advisory_lock(7972583832990083790)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to DeviseCreateUsers (20180109233234)
+  [1m[35m (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (10.2ms)[0m  [1m[35mCREATE TABLE "users" ("id" bigserial primary key, "email" character varying DEFAULT '' NOT NULL, "encrypted_password" character varying DEFAULT '' NOT NULL, "reset_password_token" character varying, "reset_password_sent_at" timestamp, "remember_created_at" timestamp, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" timestamp, "last_sign_in_at" timestamp, "current_sign_in_ip" character varying, "last_sign_in_ip" character varying, "confirmation_token" character varying, "confirmed_at" timestamp, "confirmation_sent_at" timestamp, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE UNIQUE INDEX  "index_users_on_email" ON "users"  ("email")[0m
+  [1m[35m (0.6ms)[0m  [1m[35mCREATE UNIQUE INDEX  "index_users_on_reset_password_token" ON "users"  ("reset_password_token")[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20180109233234"]]
+  [1m[35m (0.4ms)[0m  [1m[35mCOMMIT[0m
+Migrating to AddNameToUsers (20180109235021)
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (5.3ms)[0m  [1m[35mALTER TABLE "users" ADD "name" character varying[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20180109235021"]]
+  [1m[35m (0.3ms)[0m  [1m[35mCOMMIT[0m
+Migrating to AddTeamIdToUsers (20180109235137)
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "users" ADD "team_id" integer[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20180109235137"]]
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+Migrating to CreateTeams (20180110004934)
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (3.3ms)[0m  [1m[35mCREATE TABLE "teams" ("id" bigserial primary key, "name" character varying, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20180110004934"]]
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+Migrating to AddUserIdToTeams (20180110005316)
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[35mALTER TABLE "teams" ADD "user_id" integer[0m
+  [1m[35mSQL (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20180110005316"]]
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+Migrating to CreateProjects (20180110005536)
+  [1m[35m (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (3.6ms)[0m  [1m[35mCREATE TABLE "projects" ("id" bigserial primary key, "name" character varying, "description" text, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20180110005536"]]
+  [1m[35m (2.4ms)[0m  [1m[35mCOMMIT[0m
+Migrating to AddUserIdToProjects (20180110005848)
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.3ms)[0m  [1m[35mALTER TABLE "projects" ADD "user_id" integer[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20180110005848"]]
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+Migrating to AddTeamIdToProjects (20180110005910)
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "projects" ADD "team_id" integer[0m
+  [1m[35mSQL (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20180110005910"]]
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+Migrating to CreateActivities (20180110041629)
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (3.2ms)[0m  [1m[35mCREATE TABLE "activities" ("id" bigserial primary key, "trackable_type" character varying, "trackable_id" bigint, "owner_type" character varying, "owner_id" bigint, "key" character varying, "parameters" text, "recipient_type" character varying, "recipient_id" bigint, "created_at" timestamp NOT NULL, "updated_at" timestamp NOT NULL)[0m
+  [1m[35m (0.9ms)[0m  [1m[35mCREATE  INDEX  "index_activities_on_trackable_type_and_trackable_id" ON "activities"  ("trackable_type", "trackable_id")[0m
+  [1m[35m (1.7ms)[0m  [1m[35mCREATE  INDEX  "index_activities_on_owner_type_and_owner_id" ON "activities"  ("owner_type", "owner_id")[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE  INDEX  "index_activities_on_recipient_type_and_recipient_id" ON "activities"  ("recipient_type", "recipient_id")[0m
+  [1m[35m (0.6ms)[0m  [1m[35mCREATE  INDEX  "index_activities_on_trackable_id_and_trackable_type" ON "activities"  ("trackable_id", "trackable_type")[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE  INDEX  "index_activities_on_owner_id_and_owner_type" ON "activities"  ("owner_id", "owner_type")[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE  INDEX  "index_activities_on_recipient_id_and_recipient_type" ON "activities"  ("recipient_id", "recipient_type")[0m
+  [1m[35mSQL (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20180110041629"]]
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "key"[0m  [["key", "environment"], ["value", "development"], ["created_at", "2022-06-09 21:06:28.797710"], ["updated_at", "2022-06-09 21:06:28.797710"]]
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT pg_advisory_unlock(7972583832990083790)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:07:10 +0700
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.3ms)
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+/Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `exec': No such file or directory - /Users/Shared/project/projekt-master/node_modules/.bin/webpack (Errno::ENOENT)
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `block in run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `chdir'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/runner.rb:6:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/exe/webpack:8:in `<top (required)>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `load'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `<main>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `eval'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `<main>'
+
+Completed 401 Unauthorized in 3159ms (ActiveRecord: 1.7ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__542190818260531417_2303896340'
+
+Started POST "/__better_errors/5726afb421cfe063/variables" for 127.0.0.1 at 2022-06-10 04:07:14 +0700
+  [1m[36mPublicActivity::Activity Load (3.1ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:25:07 +0700
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.2ms)
+  Rendered home/index.html.erb within layouts/application (1.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+/Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `exec': No such file or directory - /Users/Shared/project/projekt-master/node_modules/.bin/webpack (Errno::ENOENT)
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `block in run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `chdir'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/runner.rb:6:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/exe/webpack:8:in `<top (required)>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `load'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `<main>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `eval'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `<main>'
+
+Completed 401 Unauthorized in 536ms (ActiveRecord: 2.1ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1847972812601084188_2614735220'
+
+Started POST "/__better_errors/a5ed016dd6a92cfa/variables" for 127.0.0.1 at 2022-06-10 04:25:07 +0700
+  [1m[36mPublicActivity::Activity Load (1.3ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:27:33 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.9ms)
+  Rendered home/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 61ms (Views: 56.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2022-06-10 04:27:42 +0700
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (40.3ms)
+Completed 200 OK in 98ms (Views: 68.0ms | ActiveRecord: 12.8ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2022-06-10 04:27:45 +0700
+Processing by RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 58ms (Views: 57.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2022-06-10 04:27:47 +0700
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.1ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (12.5ms)
+Completed 200 OK in 73ms (Views: 68.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2022-06-10 04:27:52 +0700
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 53ms (Views: 50.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2022-06-10 04:27:54 +0700
+Processing by RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 60ms (Views: 58.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2022-06-10 04:28:16 +0700
+Processing by RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"7Z0cGuMp1EV/OwMNeIOMwDnepSD8N8qXzkl/Dnph4Ahdz7c4/NbyaHGmdttuopF1vSrMx+hZrTlnJk2BB1ybqA==", "user"=>{"name"=>"abcdef", "email"=>"minhcong.vu99@gmail.com"}, "commit"=>"Sign up"}
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mUser Exists (6.9ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = $1 LIMIT $2[0m  [["email", "minhcong.vu99@gmail.com"], ["LIMIT", 1]]
+  [1m[35mSQL (1.1ms)[0m  [1m[32mINSERT INTO "users" ("email", "confirmation_token", "confirmation_sent_at", "created_at", "updated_at", "name") VALUES ($1, $2, $3, $4, $5, $6) RETURNING "id"[0m  [["email", "minhcong.vu99@gmail.com"], ["confirmation_token", "xMsr5zzGA-fXs5GhLeLm"], ["confirmation_sent_at", "2022-06-09 21:28:16.325817"], ["created_at", "2022-06-09 21:28:16.325689"], ["updated_at", "2022-06-09 21:28:16.325689"], ["name", "abcdef"]]
+  [1m[35m (1.4ms)[0m  [1m[35mCOMMIT[0m
+  Rendering devise/mailer/confirmation_instructions.html.erb
+  Rendered devise/mailer/confirmation_instructions.html.erb (0.5ms)
+Devise::Mailer#confirmation_instructions: processed outbound mail in 125.5ms
+Sent mail to minhcong.vu99@gmail.com (126.7ms)
+Date: Fri, 10 Jun 2022 04:28:16 +0700
+From: no-reply@projekt.com
+Reply-To: no-reply@projekt.com
+To: minhcong.vu99@gmail.com
+Message-ID: <62a265f089b05_185aa901cf8f060460@minhcong9x64.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome minhcong.vu99@gmail.com!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://localhost:3000/users/confirmation?confirmation_token=xMsr5zzGA-fXs5GhLeLm">Confirm my account</a></p>
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 381ms (ActiveRecord: 9.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:28:16 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.2ms)
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 26ms (Views: 24.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/confirmation?confirmation_token=xMsr5zzGA-fXs5GhLeLm" for 127.0.0.1 at 2022-06-10 04:28:26 +0700
+Processing by ConfirmationsController#show as HTML
+  Parameters: {"confirmation_token"=>"xMsr5zzGA-fXs5GhLeLm"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."confirmation_token" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["confirmation_token", "xMsr5zzGA-fXs5GhLeLm"], ["LIMIT", 1]]
+  Rendering devise/confirmations/show.html.erb within layouts/application
+  Rendered devise/confirmations/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 39ms (Views: 32.5ms | ActiveRecord: 0.6ms)
+
+
+Started PUT "/user/confirmation" for 127.0.0.1 at 2022-06-10 04:28:35 +0700
+Processing by ConfirmationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LNUPcjIDHZtNCl40v+wRDa8doHlYqNQrUVr27c6cHrxhpc2u9tSbRJfG4AY6tGZk3VQttAFOH9ADEmgD2wd1jw==", "user"=>{"password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "confirmation_token"=>"xMsr5zzGA-fXs5GhLeLm", "commit"=>"Activate"}
+  [1m[36mUser Load (2.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."confirmation_token" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["confirmation_token", "xMsr5zzGA-fXs5GhLeLm"], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (3.4ms)[0m  [1m[33mUPDATE "users" SET "encrypted_password" = $1, "updated_at" = $2 WHERE "users"."id" = $3[0m  [["encrypted_password", "$2a$11$PZIVMQBo8VnrgRSCkQmXIOL3Pc6G84qACJ6HxIA0OBaDxnuTAyyRS"], ["updated_at", "2022-06-09 21:28:36.465798"], ["id", 1]]
+  [1m[35m (1.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[33mUPDATE "users" SET "confirmed_at" = $1, "updated_at" = $2 WHERE "users"."id" = $3[0m  [["confirmed_at", "2022-06-09 21:28:36.472273"], ["updated_at", "2022-06-09 21:28:36.472469"], ["id", 1]]
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[33mUPDATE "users" SET "sign_in_count" = $1, "current_sign_in_at" = $2, "last_sign_in_at" = $3, "current_sign_in_ip" = $4, "last_sign_in_ip" = $5, "updated_at" = $6 WHERE "users"."id" = $7[0m  [["sign_in_count", 1], ["current_sign_in_at", "2022-06-09 21:28:36.473394"], ["last_sign_in_at", "2022-06-09 21:28:36.473394"], ["current_sign_in_ip", "127.0.0.1"], ["last_sign_in_ip", "127.0.0.1"], ["updated_at", "2022-06-09 21:28:36.473667"], ["id", 1]]
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 660ms (ActiveRecord: 8.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:28:36 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (3.8ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.4ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (10.8ms)
+  Rendered home/index.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 40ms (Views: 22.6ms | ActiveRecord: 9.5ms)
+
+
+Started GET "/projects/new" for 127.0.0.1 at 2022-06-10 04:28:40 +0700
+Processing by ProjectsController#new as HTML
+  [1m[36mUser Load (1.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering projects/new.html.erb within layouts/application
+  Rendered projects/_form.html.erb (0.7ms)
+  Rendered projects/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 63ms (Views: 29.3ms | ActiveRecord: 10.3ms)
+
+
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 04:28:42 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.6ms)
+  Rendered teams/new.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 63ms (Views: 43.5ms | ActiveRecord: 3.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:30:04 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.4ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.7ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.4ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (11.9ms)
+  Rendered home/index.html.erb within layouts/application (15.2ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+/Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `exec': No such file or directory - /Users/Shared/project/projekt-master/node_modules/.bin/webpack (Errno::ENOENT)
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `block in run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `chdir'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/runner.rb:6:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/exe/webpack:8:in `<top (required)>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `load'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `<main>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `eval'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `<main>'
+
+Completed 401 Unauthorized in 387ms (ActiveRecord: 4.8ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1847972812601084188_2188373040'
+
+Started POST "/__better_errors/4ab6512a65b259d4/variables" for 127.0.0.1 at 2022-06-10 04:30:04 +0700
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 04:30:09 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (1.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (1.5ms)
+  Rendered teams/new.html.erb within layouts/application (5.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+/Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `exec': No such file or directory - /Users/Shared/project/projekt-master/node_modules/.bin/webpack (Errno::ENOENT)
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `block in run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `chdir'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/runner.rb:6:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/exe/webpack:8:in `<top (required)>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `load'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `<main>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `eval'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `<main>'
+
+Completed 401 Unauthorized in 310ms (ActiveRecord: 1.4ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1847972812601084188_2419954520'
+
+Started POST "/__better_errors/ae2c814237d7d800/variables" for 127.0.0.1 at 2022-06-10 04:30:09 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:33:02 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.4ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (5.6ms)
+  Rendered home/index.html.erb within layouts/application (8.1ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+/Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `exec': No such file or directory - /Users/Shared/project/projekt-master/node_modules/.bin/webpack (Errno::ENOENT)
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `block in run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `chdir'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/runner.rb:6:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/exe/webpack:8:in `<top (required)>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `load'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `<main>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `eval'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `<main>'
+
+Completed 401 Unauthorized in 368ms (ActiveRecord: 3.6ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt-master.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1847972812601084188_2164505960'
+
+Started POST "/__better_errors/d4fda412e43685a8/variables" for 127.0.0.1 at 2022-06-10 04:33:02 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:33:04 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.3ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (4.7ms)
+  Rendered home/index.html.erb within layouts/application (10.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+/Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `exec': No such file or directory - /Users/Shared/project/projekt-master/node_modules/.bin/webpack (Errno::ENOENT)
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `block in run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `chdir'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/runner.rb:6:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/exe/webpack:8:in `<top (required)>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `load'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `<main>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `eval'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `<main>'
+
+Completed 401 Unauthorized in 360ms (ActiveRecord: 3.0ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt-master.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1847972812601084188_2186508060'
+
+Started POST "/__better_errors/597e65fef6d82643/variables" for 127.0.0.1 at 2022-06-10 04:33:04 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:38:54 +0700
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (2.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.0ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (7.9ms)
+  Rendered home/index.html.erb within layouts/application (9.2ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+/Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `exec': No such file or directory - /Users/Shared/project/projekt-master/node_modules/.bin/webpack (Errno::ENOENT)
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `block in run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `chdir'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/runner.rb:6:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/exe/webpack:8:in `<top (required)>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `load'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `<main>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `eval'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `<main>'
+
+Completed 401 Unauthorized in 521ms (ActiveRecord: 16.0ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__2071641344796331206_2446343740'
+
+Started POST "/__better_errors/8ffb8e8994bb453d/variables" for 127.0.0.1 at 2022-06-10 04:38:55 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:39:58 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (2.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.8ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (3.0ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.6ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (12.1ms)
+  Rendered home/index.html.erb within layouts/application (15.3ms)
+Completed 200 OK in 81ms (Views: 64.9ms | ActiveRecord: 8.0ms)
+
+
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 04:40:05 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.6ms)
+  Rendered teams/new.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 76ms (Views: 46.5ms | ActiveRecord: 3.2ms)
+
+
+Started GET "/projects/new" for 127.0.0.1 at 2022-06-10 04:40:20 +0700
+Processing by ProjectsController#new as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering projects/new.html.erb within layouts/application
+  Rendered projects/_form.html.erb (26.1ms)
+  Rendered projects/new.html.erb within layouts/application (28.1ms)
+Completed 200 OK in 90ms (Views: 60.9ms | ActiveRecord: 4.5ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2022-06-10 04:40:24 +0700
+Processing by ProjectsController#index as HTML
+  Rendering projects/index.html.erb within layouts/application
+  [1m[36mProject Load (0.7ms)[0m  [1m[34mSELECT "projects".* FROM "projects" ORDER BY created_at DESC[0m
+  Rendered projects/index.html.erb within layouts/application (5.5ms)
+  [1m[36mUser Load (1.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 70ms (Views: 64.7ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:40:28 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.4ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (3.8ms)
+  Rendered home/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 43ms (Views: 38.0ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:40:28 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.5ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (6.7ms)
+  Rendered home/index.html.erb within layouts/application (9.9ms)
+Completed 200 OK in 72ms (Views: 62.2ms | ActiveRecord: 2.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:40:29 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.5ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.8ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (7.4ms)
+  Rendered home/index.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 65ms (Views: 53.2ms | ActiveRecord: 3.6ms)
+
+
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 04:40:46 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (1.4ms)
+  Rendered teams/new.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 67ms (Views: 55.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:41:52 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.8ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (2.9ms)
+  Rendered home/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 60ms (Views: 45.5ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/projects/new" for 127.0.0.1 at 2022-06-10 04:41:54 +0700
+Processing by ProjectsController#new as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering projects/new.html.erb within layouts/application
+  Rendered projects/_form.html.erb (3.8ms)
+  Rendered projects/new.html.erb within layouts/application (7.5ms)
+Completed 200 OK in 85ms (Views: 75.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2022-06-10 04:41:56 +0700
+Processing by ProjectsController#index as HTML
+  Rendering projects/index.html.erb within layouts/application
+  [1m[36mProject Load (0.3ms)[0m  [1m[34mSELECT "projects".* FROM "projects" ORDER BY created_at DESC[0m
+  Rendered projects/index.html.erb within layouts/application (4.8ms)
+  [1m[36mUser Load (2.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 71ms (Views: 64.3ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/projects/new" for 127.0.0.1 at 2022-06-10 04:41:57 +0700
+Processing by ProjectsController#new as HTML
+  [1m[36mUser Load (1.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering projects/new.html.erb within layouts/application
+  Rendered projects/_form.html.erb (1.4ms)
+  Rendered projects/new.html.erb within layouts/application (19.2ms)
+Completed 200 OK in 374ms (Views: 331.7ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2022-06-10 04:41:59 +0700
+Processing by ProjectsController#index as HTML
+  Rendering projects/index.html.erb within layouts/application
+  [1m[36mProject Load (0.3ms)[0m  [1m[34mSELECT "projects".* FROM "projects" ORDER BY created_at DESC[0m
+  Rendered projects/index.html.erb within layouts/application (2.1ms)
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 52ms (Views: 47.1ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/projects" for 127.0.0.1 at 2022-06-10 04:42:01 +0700
+Processing by ProjectsController#index as HTML
+  Rendering projects/index.html.erb within layouts/application
+  [1m[36mProject Load (0.5ms)[0m  [1m[34mSELECT "projects".* FROM "projects" ORDER BY created_at DESC[0m
+  Rendered projects/index.html.erb within layouts/application (2.8ms)
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 75ms (Views: 64.8ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:42:03 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.4ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (2.7ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.8ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (11.0ms)
+  Rendered home/index.html.erb within layouts/application (15.7ms)
+Completed 200 OK in 80ms (Views: 67.7ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/projects/new" for 127.0.0.1 at 2022-06-10 04:42:06 +0700
+Processing by ProjectsController#new as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering projects/new.html.erb within layouts/application
+  Rendered projects/_form.html.erb (2.2ms)
+  Rendered projects/new.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 62ms (Views: 53.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/projects/new" for 127.0.0.1 at 2022-06-10 04:42:09 +0700
+Processing by ProjectsController#new as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering projects/new.html.erb within layouts/application
+  Rendered projects/_form.html.erb (1.4ms)
+  Rendered projects/new.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 59ms (Views: 47.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:42:12 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (7.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.4ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (5.3ms)
+  Rendered home/index.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 60ms (Views: 42.4ms | ActiveRecord: 10.6ms)
+
+
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 04:42:15 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (1.0ms)
+  Rendered teams/new.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 67ms (Views: 59.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 04:42:21 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (18.4ms)
+Completed 200 OK in 67ms (Views: 61.4ms | ActiveRecord: 0.7ms)
+
+
+Started PUT "/users" for 127.0.0.1 at 2022-06-10 04:43:01 +0700
+Processing by RegistrationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"7mjkNSGY9Vv/bLZRx6I3f7841u3+a5hEdNG4yKVN06ShD+5yYz/f0R3mogEm5xM2PjJSE5iWHiyFDAFWKT9HgA==", "user"=>{"name"=>"abcdef", "email"=>"minhcong.vu99@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "current_password"=>"[FILTERED]"}, "commit"=>"Update"}
+  [1m[36mUser Load (9.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.7ms)[0m  [1m[33mUPDATE "users" SET "encrypted_password" = $1, "updated_at" = $2 WHERE "users"."id" = $3[0m  [["encrypted_password", "$2a$11$mapt9WLJm7UYKS9dq5rKWuYAi.Tp7sOzdMt5kZ3ZHWb/JR3CYdnzW"], ["updated_at", "2022-06-09 21:43:01.687492"], ["id", 1]]
+  [1m[35m (1.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 296ms (ActiveRecord: 12.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:43:01 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.3ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (1.7ms)
+  Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 26ms (Views: 23.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:43:09 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (5.7ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.5ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.4ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.9ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (14.0ms)
+  Rendered home/index.html.erb within layouts/application (17.1ms)
+Completed 200 OK in 83ms (Views: 66.2ms | ActiveRecord: 8.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:46:36 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (1.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.8ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (7.2ms)
+  Rendered home/index.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 93ms (Views: 68.8ms | ActiveRecord: 4.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:46:37 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.5ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (4.9ms)
+  Rendered home/index.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 66ms (Views: 49.9ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 04:46:39 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (13.8ms)
+Completed 200 OK in 72ms (Views: 68.1ms | ActiveRecord: 0.6ms)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2022-06-10 04:46:40 +0700
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"TPCGj6LEnKWg2L9V90flPo49TtUS+5bwmP7sQpTrLZ8BgERTZhMaenoUAWdyH5JX/HTDGEsdXQvKtnKsgXBGrA=="}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 7ms (ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:46:40 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.4ms)
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 36ms (Views: 33.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:46:44 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.4ms)
+  Rendered home/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 58ms (Views: 52.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2022-06-10 04:46:46 +0700
+Processing by RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (14.2ms)
+Completed 200 OK in 70ms (Views: 68.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2022-06-10 04:46:48 +0700
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (12.2ms)
+Completed 200 OK in 49ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2022-06-10 04:47:09 +0700
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/6klFTOmIVoXgeXzdwfIoCaBgLXRIiQ7m0QSw1ozljO/vqoojZQJmdN5ZVpFqaeGViGukpj6a4Atw50LQT4wlw==", "user"=>{"email"=>"abcdef", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (1.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "abcdef"], ["LIMIT", 1]]
+Completed 401 Unauthorized in 8ms (ActiveRecord: 1.4ms)
+
+
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"/6klFTOmIVoXgeXzdwfIoCaBgLXRIiQ7m0QSw1ozljO/vqoojZQJmdN5ZVpFqaeGViGukpj6a4Atw50LQT4wlw==", "user"=>{"email"=>"abcdef", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 177ms (Views: 30.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2022-06-10 04:47:20 +0700
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"JGgW/jdzMLA16f0iml1ZeL0FJvRmChqlRLoNa72aRLPq77539cSLYiLcksx+69ZStbm9qH8UmBxdhGMYSmTgwg==", "user"=>{"email"=>"minhcong.vu99", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "minhcong.vu99"], ["LIMIT", 1]]
+Completed 401 Unauthorized in 5ms (ActiveRecord: 0.7ms)
+
+
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"JGgW/jdzMLA16f0iml1ZeL0FJvRmChqlRLoNa72aRLPq77539cSLYiLcksx+69ZStbm9qH8UmBxdhGMYSmTgwg==", "user"=>{"email"=>"minhcong.vu99", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 184ms (Views: 30.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2022-06-10 04:47:38 +0700
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"fASIBZ1+UaJYVL6tS5zm4vCEj/59AgiDQkCLilQWX0qygyCMX8nqcE9h0UOvKmnI+DgUomQcijpbfuX5o+j7Ow==", "user"=>{"email"=>"minhcong.vu99@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "minhcong.vu99@gmail.com"], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = $1, "sign_in_count" = $2, "updated_at" = $3 WHERE "users"."id" = $4[0m  [["current_sign_in_at", "2022-06-09 21:47:38.774730"], ["sign_in_count", 2], ["updated_at", "2022-06-09 21:47:38.775749"], ["id", 1]]
+  [1m[35m (1.3ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 169ms (ActiveRecord: 2.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:47:38 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.3ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (2.6ms)
+  Rendered home/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 23ms (Views: 20.0ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:49:29 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.5ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.7ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (6.1ms)
+  Rendered home/index.html.erb within layouts/application (11.9ms)
+Completed 200 OK in 88ms (Views: 72.3ms | ActiveRecord: 3.4ms)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2022-06-10 04:49:39 +0700
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"l4FLny5JPLxfiNfzhGg77PT9tFNMxjoKhkrMgc9oqGR4XiRH4Agp/9GBDeqUGHTCnlIVSZ/1JeqIEJESM8P8Jw=="}
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 9ms (ActiveRecord: 1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:49:39 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.6ms)
+  Rendered home/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 50ms (Views: 44.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:50:11 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (1.1ms)
+  Rendered home/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 55ms (Views: 50.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:52:37 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.8ms)
+  Rendered home/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 59ms (Views: 51.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:53:24 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.6ms)
+  Rendered home/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 68ms (Views: 61.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:56:31 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.9ms)
+  Rendered home/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 62ms (Views: 53.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 04:57:01 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.9ms)
+  Rendered home/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 62ms (Views: 57.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:00:12 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (1.2ms)
+  Rendered home/index.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 60ms (Views: 54.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:02:49 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.9ms)
+  Rendered home/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 63ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:06:24 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (1.0ms)
+  Rendered home/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 64ms (Views: 59.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:07:14 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (1.1ms)
+  Rendered home/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 67ms (Views: 59.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:07:26 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.3ms)
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 44ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2022-06-10 05:21:42 +0700
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.1ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 78ms (Views: 73.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2022-06-10 05:21:44 +0700
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5qztQlk/Syc2jFPYHkxxJ6eEZGmb995fcDGvYMi6+w5GR3YJi4Vi8y3YDTbDcc69etNizcIQFs+PdW4pKOj2fA==", "user"=>{"email"=>"minhcong.vu99@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "minhcong.vu99@gmail.com"], ["LIMIT", 1]]
+  [1m[35m (0.4ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = $1, "last_sign_in_at" = $2, "sign_in_count" = $3, "updated_at" = $4 WHERE "users"."id" = $5[0m  [["current_sign_in_at", "2022-06-09 22:21:44.243246"], ["last_sign_in_at", "2022-06-09 21:47:38.774730"], ["sign_in_count", 3], ["updated_at", "2022-06-09 22:21:44.244642"], ["id", 1]]
+  [1m[35m (0.7ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 170ms (ActiveRecord: 3.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:21:44 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.3ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (2.2ms)
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 25ms (Views: 21.4ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:21:59 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (2.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (2.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.5ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (6.1ms)
+  Rendered home/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 78ms (Views: 62.4ms | ActiveRecord: 5.9ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 05:22:01 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 65ms (Views: 59.6ms | ActiveRecord: 0.4ms)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2022-06-10 05:22:02 +0700
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"nnbNevEz1GIYl1f7zt6tgcONv64YupNhVAPZ/OV5W+p03gu3mQu9RZqRzLlo4sxKLtIBFAVW3zSE4J6SkcBiEw=="}
+  [1m[36mUser Load (2.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.7ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 10ms (ActiveRecord: 3.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:22:02 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (1.4ms)
+  Rendered home/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 42ms (Views: 39.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:22:07 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.6ms)
+  Rendered home/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 63ms (Views: 60.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:24:08 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.6ms)
+  Rendered home/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 49ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:30:02 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.9ms)
+  Rendered home/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 53ms (Views: 44.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:30:08 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (1.3ms)
+  Rendered home/index.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 62ms (Views: 57.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:32:04 +0700
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.3ms)
+  Rendered home/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 234ms (Views: 221.6ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/users/confirmation?confirmation_token=xMsr5zzGA-fXs5GhLeLm" for 127.0.0.1 at 2022-06-10 05:33:09 +0700
+Processing by ConfirmationsController#show as HTML
+  Parameters: {"confirmation_token"=>"xMsr5zzGA-fXs5GhLeLm"}
+  [1m[36mUser Load (1.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."confirmation_token" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["confirmation_token", "xMsr5zzGA-fXs5GhLeLm"], ["LIMIT", 1]]
+  Rendering devise/confirmations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.5ms)
+  Rendered devise/confirmations/new.html.erb within layouts/application (20.9ms)
+Completed 200 OK in 76ms (Views: 46.4ms | ActiveRecord: 5.6ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2022-06-10 05:33:18 +0700
+Processing by RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 53ms (Views: 50.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2022-06-10 05:34:13 +0700
+Processing by RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"4IIaLaNnpqNhCzL+Xc+ZGc6Q9yYKL3S2scWtQt+nxjJa4Ey4Bv46OyVL51gCW7L+JFcnu0f0aDOuvdxfTm2/GQ==", "user"=>{"name"=>"ヴ・ミン・コン", "email"=>"cong.minh.vu@paytner.co.jp"}, "commit"=>"Sign up"}
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mUser Exists (0.8ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = $1 LIMIT $2[0m  [["email", "cong.minh.vu@paytner.co.jp"], ["LIMIT", 1]]
+  [1m[35mSQL (4.0ms)[0m  [1m[32mINSERT INTO "users" ("email", "confirmation_token", "confirmation_sent_at", "created_at", "updated_at", "name") VALUES ($1, $2, $3, $4, $5, $6) RETURNING "id"[0m  [["email", "cong.minh.vu@paytner.co.jp"], ["confirmation_token", "h1C5n-EN8HGdQXAeLWRa"], ["confirmation_sent_at", "2022-06-09 22:34:13.885147"], ["created_at", "2022-06-09 22:34:13.884967"], ["updated_at", "2022-06-09 22:34:13.884967"], ["name", "ヴ・ミン・コン"]]
+  [1m[35m (0.8ms)[0m  [1m[35mCOMMIT[0m
+  Rendering devise/mailer/confirmation_instructions.html.erb
+  Rendered devise/mailer/confirmation_instructions.html.erb (0.5ms)
+Devise::Mailer#confirmation_instructions: processed outbound mail in 113.9ms
+Sent mail to cong.minh.vu@paytner.co.jp (10.2ms)
+Date: Fri, 10 Jun 2022 05:34:14 +0700
+From: no-reply@projekt.com
+Reply-To: no-reply@projekt.com
+To: cong.minh.vu@paytner.co.jp
+Message-ID: <62a27566165d0_40e8d8a30a8858d8@minhcong9x64.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome cong.minh.vu@paytner.co.jp!</p>
+
+<p>You can confirm your account email through the link below:</p>
+
+<p><a href="http://localhost:3000/users/confirmation?confirmation_token=h1C5n-EN8HGdQXAeLWRa">Confirm my account</a></p>
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 231ms (ActiveRecord: 5.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:34:14 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.2ms)
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 20ms (Views: 18.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/confirmation?confirmation_token=h1C5n-EN8HGdQXAeLWRa" for 127.0.0.1 at 2022-06-10 05:34:22 +0700
+Processing by ConfirmationsController#show as HTML
+  Parameters: {"confirmation_token"=>"h1C5n-EN8HGdQXAeLWRa"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."confirmation_token" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["confirmation_token", "h1C5n-EN8HGdQXAeLWRa"], ["LIMIT", 1]]
+  Rendering devise/confirmations/show.html.erb within layouts/application
+  Rendered devise/confirmations/show.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 42ms (Views: 36.3ms | ActiveRecord: 0.5ms)
+
+
+Started PUT "/user/confirmation" for 127.0.0.1 at 2022-06-10 05:34:49 +0700
+Processing by ConfirmationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DK5VANGdAvDn9seMawQxZmis0VAcGvjppJTP4FDnvJSGT2L7GTXxPUfsm7XDtU6w38NtfSgt1nmXoe0vfIKnxA==", "user"=>{"password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "confirmation_token"=>"h1C5n-EN8HGdQXAeLWRa", "commit"=>"Activate"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."confirmation_token" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["confirmation_token", "h1C5n-EN8HGdQXAeLWRa"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (1.2ms)[0m  [1m[33mUPDATE "users" SET "encrypted_password" = $1, "updated_at" = $2 WHERE "users"."id" = $3[0m  [["encrypted_password", "$2a$11$45VYZOYLiXIs847DN3TOMeeGfIDG7fNa5DPseqpdfHS6q8yPUlQcO"], ["updated_at", "2022-06-09 22:34:49.959283"], ["id", 2]]
+  [1m[35m (0.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[33mUPDATE "users" SET "confirmed_at" = $1, "updated_at" = $2 WHERE "users"."id" = $3[0m  [["confirmed_at", "2022-06-09 22:34:49.961907"], ["updated_at", "2022-06-09 22:34:49.962170"], ["id", 2]]
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[33mUPDATE "users" SET "sign_in_count" = $1, "current_sign_in_at" = $2, "last_sign_in_at" = $3, "current_sign_in_ip" = $4, "last_sign_in_ip" = $5, "updated_at" = $6 WHERE "users"."id" = $7[0m  [["sign_in_count", 1], ["current_sign_in_at", "2022-06-09 22:34:49.963519"], ["last_sign_in_at", "2022-06-09 22:34:49.963519"], ["current_sign_in_ip", "127.0.0.1"], ["last_sign_in_ip", "127.0.0.1"], ["updated_at", "2022-06-09 22:34:49.964098"], ["id", 2]]
+  [1m[35m (0.3ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 164ms (ActiveRecord: 4.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:34:49 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.1ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (7.7ms)
+  Rendered home/index.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 41ms (Views: 25.6ms | ActiveRecord: 6.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:35:19 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.4ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.4ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.3ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (10.4ms)
+  Rendered home/index.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 83ms (Views: 71.9ms | ActiveRecord: 4.1ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 05:47:39 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (1.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (11.8ms)
+Completed 200 OK in 65ms (Views: 59.0ms | ActiveRecord: 1.2ms)
+
+
+Started PUT "/users" for 127.0.0.1 at 2022-06-10 05:48:00 +0700
+Processing by RegistrationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"cZds2GVNFn+UKnNkeZNRLBcx+pIIWcgDd3t1Ua+H4JBT3g3A0+z/40qMZFcugPwZ4mT8qO4MI/CQ0NuBOqUUgg==", "user"=>{"name"=>"Vũ Minh Công 20184052", "email"=>"cong.minh.vu@paytner.co.jp", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "current_password"=>"[FILTERED]"}, "commit"=>"Update"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 213ms (Views: 30.8ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:48:04 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.6ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (7.0ms)
+  Rendered home/index.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 68ms (Views: 56.3ms | ActiveRecord: 3.4ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 05:48:08 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 63ms (Views: 58.9ms | ActiveRecord: 0.3ms)
+
+
+Started PUT "/users" for 127.0.0.1 at 2022-06-10 05:48:28 +0700
+Processing by RegistrationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"GoFFcJsFE1cyJfruq0bTanMSH9OENETnCUvy5oQwh1I4yCRoLaT6y+yD7d38VX5fhkcZ6WJhrxTu4Fw2ERJzQA==", "user"=>{"name"=>"Vũ Minh Công 20184052", "email"=>"cong.minh.vu@paytner.co.jp", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "current_password"=>"[FILTERED]"}, "commit"=>"Update"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 326ms (Views: 26.0ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:48:34 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.4ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.5ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.5ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (6.7ms)
+  Rendered home/index.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 60ms (Views: 51.8ms | ActiveRecord: 2.8ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 05:48:42 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 72ms (Views: 65.4ms | ActiveRecord: 0.4ms)
+
+
+Started PUT "/users" for 127.0.0.1 at 2022-06-10 05:49:15 +0700
+Processing by RegistrationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"sVjAwiiiCFNcgey9Amko+JO0Ear3dZFbqsdC3m7oReKTEaHangPhz4In+45VeoXNZuEXkBEgeqhNbOwO+8qx8A==", "user"=>{"name"=>"ヴ・ミン・コン", "email"=>"cong.minh.vu@paytner.co.jp", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "current_password"=>"[FILTERED]"}, "commit"=>"Update"}
+  [1m[36mUser Load (1.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.6ms)[0m  [1m[33mUPDATE "users" SET "encrypted_password" = $1, "updated_at" = $2 WHERE "users"."id" = $3[0m  [["encrypted_password", "$2a$11$oQ9dZCZg0ZjQzsPZVk6Xm.Xlr7GptRo.ZIkAdzS2ZAsXtaDeToY.K"], ["updated_at", "2022-06-09 22:49:16.147256"], ["id", 2]]
+  [1m[35m (0.7ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 295ms (ActiveRecord: 3.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:49:16 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.4ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (2.1ms)
+  Rendered home/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 23ms (Views: 19.8ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:49:26 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (2.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.7ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (11.1ms)
+  Rendered home/index.html.erb within layouts/application (14.4ms)
+Completed 200 OK in 77ms (Views: 60.2ms | ActiveRecord: 5.2ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 05:49:28 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (2.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 75ms (Views: 66.3ms | ActiveRecord: 2.3ms)
+
+
+Started PUT "/users" for 127.0.0.1 at 2022-06-10 05:49:53 +0700
+Processing by RegistrationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"KWCtWX63SjeFpFX1DPNcS7shXXnBZCf9F2yBBYufBwILKcxByBajq1sCQsZb4PF+TnRbQycxzA7wxy/VHr3zEA==", "user"=>{"name"=>"Vũ Minh Công 20184052", "email"=>"cong.minh.vu@paytner.co.jp", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "current_password"=>"[FILTERED]"}, "commit"=>"Update"}
+  [1m[36mUser Load (2.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[36mUser Load (1.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.8ms)[0m  [1m[33mUPDATE "users" SET "encrypted_password" = $1, "name" = $2, "updated_at" = $3 WHERE "users"."id" = $4[0m  [["encrypted_password", "$2a$11$hp0e6D6XjIknhSneuyshjuNWdLVdlB.loxTrN6HiKVjrcTvjhjsaC"], ["name", "Vũ Minh Công 20184052"], ["updated_at", "2022-06-09 22:49:54.275724"], ["id", 2]]
+  [1m[35m (0.7ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 292ms (ActiveRecord: 5.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:49:54 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.4ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (2.3ms)
+  Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 33ms (Views: 30.1ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:50:09 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.3ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.4ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (4.8ms)
+  Rendered home/index.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 71ms (Views: 60.0ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 05:58:11 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.6ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (5.7ms)
+  Rendered home/index.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 85ms (Views: 71.1ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 06:30:58 +0700
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (1.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (2.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.3ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (11.5ms)
+  Rendered home/index.html.erb within layouts/application (12.9ms)
+Completed 200 OK in 267ms (Views: 228.9ms | ActiveRecord: 16.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 06:31:02 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.3ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (3.3ms)
+  Rendered home/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 55ms (Views: 47.3ms | ActiveRecord: 1.5ms)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2022-06-10 06:31:04 +0700
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"ICdl54GPnZTwWYJOfw0iZ2QN7vM/b3Kx33ReLDOgfguqxlIcSSduWVBD3nfXvF2x02JS3gtYXCHsQXzjH8VlWw=="}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 11ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 06:31:04 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.4ms)
+  Rendered home/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 31ms (Views: 28.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 06:31:06 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.3ms)
+  Rendered home/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 34ms (Views: 33.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2022-06-10 06:31:14 +0700
+Processing by RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (34.9ms)
+Completed 200 OK in 75ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2022-06-10 06:31:17 +0700
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 69ms (Views: 65.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2022-06-10 06:31:39 +0700
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"qj3jIArGT+Kd3FGXgpsyrCbPWQ64eyFDgKZoixF13BQ3950WwazGFv3I2zlUx/Xrzs2prm01YPODFNJzH6/doQ==", "user"=>{"email"=>"cong.minh.vu@paytner.co.jp", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (4.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "cong.minh.vu@paytner.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = $1, "sign_in_count" = $2, "updated_at" = $3 WHERE "users"."id" = $4[0m  [["current_sign_in_at", "2022-06-09 23:31:39.712305"], ["sign_in_count", 2], ["updated_at", "2022-06-09 23:31:39.712984"], ["id", 2]]
+  [1m[35m (4.0ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 182ms (ActiveRecord: 9.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 06:31:39 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.2ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (1.8ms)
+  Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 26ms (Views: 23.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 06:31:42 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.3ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.3ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (7.8ms)
+  Rendered home/index.html.erb within layouts/application (10.9ms)
+Completed 200 OK in 70ms (Views: 55.2ms | ActiveRecord: 3.9ms)
+
+
+Started GET "/projects/new" for 127.0.0.1 at 2022-06-10 06:31:54 +0700
+Processing by ProjectsController#new as HTML
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering projects/new.html.erb within layouts/application
+  Rendered projects/_form.html.erb (1.5ms)
+  Rendered projects/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 76ms (Views: 38.8ms | ActiveRecord: 2.7ms)
+
+
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 06:31:56 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.7ms)
+  Rendered teams/new.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 89ms (Views: 65.9ms | ActiveRecord: 2.8ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 06:33:29 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (1.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 65ms (Views: 57.9ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 06:33:32 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.3ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.3ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.2ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (8.7ms)
+  Rendered home/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 58ms (Views: 46.0ms | ActiveRecord: 3.2ms)
+
+
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 06:33:34 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.7ms)
+  Rendered teams/new.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 52ms (Views: 44.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 06:33:43 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.6ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (6.1ms)
+  Rendered home/index.html.erb within layouts/application (16.8ms)
+Completed 200 OK in 70ms (Views: 59.2ms | ActiveRecord: 2.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 06:35:41 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.5ms)
+  Rendered home/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 40ms (Views: 37.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:02:45 +0700
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (2.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.1ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (13.8ms)
+  Rendered home/index.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 292ms (Views: 243.9ms | ActiveRecord: 21.9ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 11:02:48 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (42.2ms)
+Completed 200 OK in 76ms (Views: 71.7ms | ActiveRecord: 0.8ms)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2022-06-10 11:02:49 +0700
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"9XgyvEax+FwulbLlMI5A26+b228lUxuSz0UOtqNlPbJstUok6JNTmRZDbcecsf7jgAbQjp3iW5DMs7ZI3lEkVQ=="}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 7ms (ActiveRecord: 0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:02:49 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.4ms)
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 44ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:02:53 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.5ms)
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 46ms (Views: 42.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2022-06-10 11:02:57 +0700
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (13.8ms)
+Completed 200 OK in 71ms (Views: 65.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2022-06-10 11:03:22 +0700
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"uyWO8mxU22/+4VKFKuWWDegPKFfVXIdxCIW+TKbWyke09l/vOnPG1hMOBwdhuiJw9Fgki4IixGdX42c4JlKUkA==", "user"=>{"email"=>"cong.minh.vu@paytner.co.jp", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "cong.minh.vu@paytner.co.jp"], ["LIMIT", 1]]
+Completed 401 Unauthorized in 173ms (ActiveRecord: 1.0ms)
+
+
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"uyWO8mxU22/+4VKFKuWWDegPKFfVXIdxCIW+TKbWyke09l/vOnPG1hMOBwdhuiJw9Fgki4IixGdX42c4JlKUkA==", "user"=>{"email"=>"cong.minh.vu@paytner.co.jp", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 155ms (Views: 34.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2022-06-10 11:03:30 +0700
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"G2ffOW8nSl4I1VhlAcVEIqQ+I8uFtnK/RtfWQwlhheVmJ0R97Z25JyLCXunIThh0TqVSQW5Q3PkWzbuTGRLO5w==", "user"=>{"email"=>"cong.minh.vu@paytner.co.jp", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "cong.minh.vu@paytner.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.7ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = $1, "last_sign_in_at" = $2, "sign_in_count" = $3, "updated_at" = $4 WHERE "users"."id" = $5[0m  [["current_sign_in_at", "2022-06-10 04:03:30.205242"], ["last_sign_in_at", "2022-06-09 23:31:39.712305"], ["sign_in_count", 3], ["updated_at", "2022-06-10 04:03:30.206014"], ["id", 2]]
+  [1m[35m (2.2ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 186ms (ActiveRecord: 4.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:03:30 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.3ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (2.1ms)
+  Rendered home/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 26ms (Views: 23.7ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:03:32 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (1.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.6ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (7.0ms)
+  Rendered home/index.html.erb within layouts/application (18.3ms)
+Completed 200 OK in 105ms (Views: 93.3ms | ActiveRecord: 4.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:03:33 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.5ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 2 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (4.2ms)
+  Rendered home/index.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 61ms (Views: 52.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/projects/new" for 127.0.0.1 at 2022-06-10 11:03:34 +0700
+Processing by ProjectsController#new as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering projects/new.html.erb within layouts/application
+  Rendered projects/_form.html.erb (1.5ms)
+  Rendered projects/new.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 83ms (Views: 35.0ms | ActiveRecord: 4.8ms)
+
+
+Started GET "/projects/new" for 127.0.0.1 at 2022-06-10 11:03:37 +0700
+Processing by ProjectsController#new as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering projects/new.html.erb within layouts/application
+  Rendered projects/_form.html.erb (1.3ms)
+  Rendered projects/new.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 77ms (Views: 69.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 11:03:38 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.6ms)
+  Rendered teams/new.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 68ms (Views: 46.5ms | ActiveRecord: 3.9ms)
+
+
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 11:03:42 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (1.1ms)
+  Rendered teams/new.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 68ms (Views: 59.7ms | ActiveRecord: 0.4ms)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2022-06-10 11:03:56 +0700
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"2/fFGg5cs2go1XoeL2CfNRnfgSX0fELXFdw40Drhq0hYcapu5lwEfBsKegWMfEagFBNecL8yHOqLrW3VZ+CyTw=="}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[35m (2.0ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (1.8ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 17ms (ActiveRecord: 4.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:03:56 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.5ms)
+  Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 51ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2022-06-10 11:03:59 +0700
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 48ms (Views: 45.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/confirmation/new" for 127.0.0.1 at 2022-06-10 11:04:09 +0700
+Processing by ConfirmationsController#new as HTML
+  Rendering devise/confirmations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.1ms)
+  Rendered devise/confirmations/new.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 51ms (Views: 48.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/confirmation" for 127.0.0.1 at 2022-06-10 11:04:14 +0700
+Processing by ConfirmationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"M7mnB7JXOWK8lgbfd+9KjEfDj7dCkpu+zi1NiRCGivO0aSSL09X/jf2cS4Iaf+G7SrzqsmDXVvvFjjXoblVafw==", "user"=>{"email"=>"minhcong.vu99@gmail.com"}, "commit"=>"Resend confirmation instructions"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "minhcong.vu99@gmail.com"], ["LIMIT", 1]]
+  Rendering devise/confirmations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.7ms)
+  Rendered devise/confirmations/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 54ms (Views: 44.4ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/users/confirmation" for 127.0.0.1 at 2022-06-10 11:04:29 +0700
+Processing by ConfirmationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CZHZKRry6hMsNCAqaIysE7wE5BV3i9P1JBxWmqvHY2Dc7EDI/1g/3QTx6/3tFFFS7PVvkUjFuG878WYvlfuZLA==", "user"=>{"email"=>"minhcong.vu99@gmail.com"}, "commit"=>"Resend confirmation instructions"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "minhcong.vu99@gmail.com"], ["LIMIT", 1]]
+  Rendering devise/confirmations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (4.9ms)
+  Rendered devise/confirmations/new.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 68ms (Views: 48.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2022-06-10 11:04:34 +0700
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 57ms (Views: 54.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2022-06-10 11:04:36 +0700
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DDtmrxPaxepK0wxiBPA8lQrOQDwzhwugCmlNRMk/BvO8r/NMU9V4HlgzW/CtgXxSvdaEwHiAlc2Yi1CFtfMKQQ==", "user"=>{"email"=>"minhcong.vu99@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "minhcong.vu99@gmail.com"], ["LIMIT", 1]]
+  [1m[35m (0.4ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = $1, "last_sign_in_at" = $2, "sign_in_count" = $3, "updated_at" = $4 WHERE "users"."id" = $5[0m  [["current_sign_in_at", "2022-06-10 04:04:36.565545"], ["last_sign_in_at", "2022-06-09 22:21:44.243246"], ["sign_in_count", 4], ["updated_at", "2022-06-10 04:04:36.566819"], ["id", 1]]
+  [1m[35m (1.3ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 173ms (ActiveRecord: 2.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:04:36 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.9ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (2.6ms)
+  Rendered home/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 25ms (Views: 21.5ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 11:04:42 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 81ms (Views: 75.9ms | ActiveRecord: 0.7ms)
+
+
+Started PUT "/users" for 127.0.0.1 at 2022-06-10 11:05:21 +0700
+Processing by RegistrationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"iXSVIKHQ4hjjKfnon1j3FEHLzuWpWwFbH4YaS4lLGDhQ0rZg0dyx9iFag3qMMSHEI31/GtkLGbATyaZgVpgeXA==", "user"=>{"name"=>"Minh Công Vũ", "email"=>"minhcong.vu99@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "current_password"=>"[FILTERED]"}, "commit"=>"Update"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 318ms (Views: 28.4ms | ActiveRecord: 0.9ms)
+
+
+Started PUT "/users" for 127.0.0.1 at 2022-06-10 11:05:48 +0700
+Processing by RegistrationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b8nbyLYgo23gMqxlGmPbiIMNLU9n2aPash9YUKH0Hz0PBcZBy1KxQGJEMUVS+BHQq/LwcrK5JTTrxuWEQVlf3g==", "user"=>{"name"=>"Minh Công Vũ", "email"=>"minhcong.vu99@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "current_password"=>"[FILTERED]"}, "commit"=>"Update"}
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 182ms (Views: 27.7ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 11:05:53 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 59ms (Views: 55.4ms | ActiveRecord: 0.4ms)
+
+
+Started PUT "/users" for 127.0.0.1 at 2022-06-10 11:06:03 +0700
+Processing by RegistrationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"SA07BIOzIb1334IXYNyi9EJgj8hkejE7l8EiZ18r9+qRqxhE879yU7Ws+IVztXQkINY+NxQqKdCbjp5MgPjxjg==", "user"=>{"name"=>"abcdef", "email"=>"minhcong.vu99@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "current_password"=>"[FILTERED]"}, "commit"=>"Update"}
+  [1m[36mUser Load (4.1ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 196ms (Views: 26.6ms | ActiveRecord: 4.4ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 11:06:07 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (13.9ms)
+Completed 200 OK in 82ms (Views: 76.5ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:06:09 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.5ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (5.6ms)
+  Rendered home/index.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 82ms (Views: 73.9ms | ActiveRecord: 2.3ms)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2022-06-10 11:06:12 +0700
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"lN5TbM0Ut6KGdKhW6+DHkbLcL2/4fj+YET19wfpbPcT0Ek7lsGaljwQCNXajew3JmiPyUi0euXZI5MAVGvZ9Jw=="}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 7ms (ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:06:12 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.2ms)
+  Rendered home/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 38ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2022-06-10 11:06:14 +0700
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 51ms (Views: 49.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2022-06-10 11:06:19 +0700
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"GLYADwjqVOuq9agIPwwyTZB5IyUvXKlnU0H5kvj007kWvZrT0dk2mMul9p6YzAwzCuoiDMSpaELbLz3l8rG/Iw==", "user"=>{"email"=>"minhcong.vu99@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["email", "minhcong.vu99@gmail.com"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.6ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = $1, "last_sign_in_at" = $2, "sign_in_count" = $3, "updated_at" = $4 WHERE "users"."id" = $5[0m  [["current_sign_in_at", "2022-06-10 04:06:19.381718"], ["last_sign_in_at", "2022-06-10 04:04:36.565545"], ["sign_in_count", 5], ["updated_at", "2022-06-10 04:06:19.382334"], ["id", 1]]
+  [1m[35m (1.3ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 166ms (ActiveRecord: 2.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:06:19 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.3ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (2.2ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (4.8ms)
+  Rendered home/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 28ms (Views: 22.3ms | ActiveRecord: 4.0ms)
+
+
+Started GET "/users/edit" for 127.0.0.1 at 2022-06-10 11:06:23 +0700
+Processing by RegistrationsController#edit as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering devise/registrations/edit.html.erb within layouts/application
+  Rendered devise/registrations/edit.html.erb within layouts/application (8.8ms)
+Completed 200 OK in 65ms (Views: 60.6ms | ActiveRecord: 0.4ms)
+
+
+Started PUT "/users" for 127.0.0.1 at 2022-06-10 11:06:39 +0700
+Processing by RegistrationsController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DS2JRciP/N8A5q/nUtprnq3KvupsZS0sjmkHwyYCaiZ1mvHmP9TiUcOidmdSSH52K5HxR4IaVFCZt1QyXI0WYw==", "user"=>{"name"=>"Minh Công Vũ", "email"=>"minhcong.vu99@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]", "current_password"=>"[FILTERED]"}, "commit"=>"Update"}
+  [1m[36mUser Load (4.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (4.6ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[33mUPDATE "users" SET "name" = $1, "updated_at" = $2 WHERE "users"."id" = $3[0m  [["name", "Minh Công Vũ"], ["updated_at", "2022-06-10 04:06:40.080429"], ["id", 1]]
+  [1m[35m (1.1ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 176ms (ActiveRecord: 10.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:06:40 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.2ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (1.8ms)
+  Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 22ms (Views: 19.6ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 11:06:52 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.6ms)
+  Rendered teams/new.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 57ms (Views: 48.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2022-06-10 11:06:56 +0700
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (0.9ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 1 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (5.4ms)
+  Rendered home/index.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 64ms (Views: 55.8ms | ActiveRecord: 2.9ms)
+
+
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 11:07:28 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.4ms)
+  Rendered teams/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 47ms (Views: 39.7ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 11:07:42 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.4ms)
+  Rendered teams/new.html.erb within layouts/application (4.9ms)
+[Webpacker] Compiling…
+[Webpacker] Compilation failed:
+
+/Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `exec': No such file or directory - /Users/Shared/project/projekt-master/node_modules/.bin/webpack (Errno::ENOENT)
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:11:in `block in run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `chdir'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/webpack_runner.rb:10:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/lib/webpacker/runner.rb:6:in `run'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/gems/webpacker-3.2.2/exe/webpack:8:in `<top (required)>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `load'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/webpack:23:in `<main>'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `eval'
+	from /Users/vuminhcong/.rvm/gems/ruby-2.4.2/bin/ruby_executable_hooks:22:in `<main>'
+
+Completed 401 Unauthorized in 348ms (ActiveRecord: 0.8ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__3872076989395457337_2377745200'
+
+Started POST "/__better_errors/d359ac03899b9e72/variables" for 127.0.0.1 at 2022-06-10 11:07:43 +0700
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 11:08:10 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (4.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.6ms)
+  Rendered teams/new.html.erb within layouts/application (6.0ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/projekt-master/public/packs
+Completed 401 Unauthorized in 337ms (ActiveRecord: 4.6ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__3872076989395457337_2371324160'
+
+Started POST "/__better_errors/b79ade1e5404061c/variables" for 127.0.0.1 at 2022-06-10 11:08:11 +0700
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 11:10:18 +0700
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.4ms)
+  Rendered teams/new.html.erb within layouts/application (2.5ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/projekt-master/public/packs
+Completed 401 Unauthorized in 478ms (ActiveRecord: 18.8ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__4569752259197488119_2618502100'
+
+Started POST "/__better_errors/8ec4a502dbc544e0/variables" for 127.0.0.1 at 2022-06-10 11:10:19 +0700
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 11:57:10 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (1.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (1.2ms)
+  Rendered teams/new.html.erb within layouts/application (4.5ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/projekt-master/public/packs
+Completed 401 Unauthorized in 425ms (ActiveRecord: 1.2ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__4569752259197488119_2371780080'
+
+Started POST "/__better_errors/b4d7c63d462c30d0/variables" for 127.0.0.1 at 2022-06-10 11:57:10 +0700
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 12:04:41 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (4.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.5ms)
+  Rendered teams/new.html.erb within layouts/application (4.9ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/projekt-master/public/packs
+Completed 401 Unauthorized in 382ms (ActiveRecord: 4.3ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__4569752259197488119_2368635280'
+
+Started POST "/__better_errors/ed636f423e56e9fc/variables" for 127.0.0.1 at 2022-06-10 12:04:41 +0700
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 12:05:55 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.5ms)
+  Rendered teams/new.html.erb within layouts/application (3.5ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/projekt-master/public/packs
+Completed 401 Unauthorized in 335ms (ActiveRecord: 0.4ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__4569752259197488119_2620177980'
+
+Started POST "/__better_errors/6598a23300af52ad/variables" for 127.0.0.1 at 2022-06-10 12:05:56 +0700
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 12:05:57 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (1.3ms)
+  Rendered teams/new.html.erb within layouts/application (5.3ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/projekt-master/public/packs
+Completed 401 Unauthorized in 307ms (ActiveRecord: 1.0ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__4569752259197488119_2382872580'
+
+Started POST "/__better_errors/79818de164ff5a1f/variables" for 127.0.0.1 at 2022-06-10 12:05:57 +0700
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 12:06:09 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (1.4ms)
+  Rendered teams/new.html.erb within layouts/application (6.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/projekt-master/public/packs
+Completed 401 Unauthorized in 312ms (ActiveRecord: 0.6ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__4569752259197488119_2383688540'
+
+Started POST "/__better_errors/10f1977a1c0b7ac1/variables" for 127.0.0.1 at 2022-06-10 12:06:10 +0700
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 12:30:11 +0700
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (1.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.6ms)
+  Rendered teams/new.html.erb within layouts/application (3.3ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/projekt-master/public/packs
+Completed 401 Unauthorized in 405ms (ActiveRecord: 1.4ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/projekt-master/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__4569752259197488119_2383903540'
+
+Started POST "/__better_errors/c0a687554d50a437/variables" for 127.0.0.1 at 2022-06-10 12:30:12 +0700
