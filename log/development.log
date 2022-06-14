@@ -2412,3 +2412,60 @@ Your manifest contains:
   app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__4569752259197488119_2383903540'
 
 Started POST "/__better_errors/c0a687554d50a437/variables" for 127.0.0.1 at 2022-06-10 12:30:12 +0700
+Started GET "/teams/new" for 127.0.0.1 at 2022-06-10 13:14:11 +0700
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by TeamsController#new as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering teams/new.html.erb within layouts/application
+  Rendered teams/_form.html.erb (0.2ms)
+  Rendered teams/new.html.erb within layouts/application (2.3ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 611ms (ActiveRecord: 18.0ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__1225234588840766795_2231745980'
+
+Started POST "/__better_errors/f5acc76dc2daade3/variables" for 127.0.0.1 at 2022-06-10 13:14:11 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-14 19:48:51 +0700
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.4ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.3ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 3 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (7.2ms)
+  Rendered home/index.html.erb within layouts/application (8.4ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 920ms (ActiveRecord: 12.4ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__479794415496611715_2555682620'
+
+Started POST "/__better_errors/6c83d488be3a66b7/variables" for 127.0.0.1 at 2022-06-14 19:48:52 +0700
