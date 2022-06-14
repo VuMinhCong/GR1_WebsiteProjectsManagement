@@ -2469,3 +2469,96 @@ Your manifest contains:
   app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__479794415496611715_2555682620'
 
 Started POST "/__better_errors/6c83d488be3a66b7/variables" for 127.0.0.1 at 2022-06-14 19:48:52 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-14 20:16:25 +0700
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (1.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.2ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.1ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 3 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (6.4ms)
+  Rendered home/index.html.erb within layouts/application (7.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 943ms (ActiveRecord: 15.4ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__3646846346502641744_2403253380'
+
+Started POST "/__better_errors/83d79d2823348d43/variables" for 127.0.0.1 at 2022-06-14 20:16:26 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-14 20:19:57 +0700
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.1ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.1ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 3 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (5.5ms)
+  Rendered home/index.html.erb within layouts/application (6.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 980ms (ActiveRecord: 10.3ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__3163675512936725521_2210963720'
+
+Started POST "/__better_errors/b44157c5ed3542f9/variables" for 127.0.0.1 at 2022-06-14 20:19:58 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-14 20:23:30 +0700
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (1.2ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 3 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (6.7ms)
+  Rendered home/index.html.erb within layouts/application (7.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 967ms (ActiveRecord: 12.1ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1619506943325306511_2531630000'
+
+Started POST "/__better_errors/f21849dd49d3f9d6/variables" for 127.0.0.1 at 2022-06-14 20:23:31 +0700
