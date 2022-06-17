@@ -2562,3 +2562,424 @@ Your manifest contains:
   app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___1619506943325306511_2531630000'
 
 Started POST "/__better_errors/f21849dd49d3f9d6/variables" for 127.0.0.1 at 2022-06-14 20:23:31 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-15 15:16:33 +0700
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  [1m[36mUser Load (1.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering home/index.html.erb within layouts/application
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT COUNT(*) FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[36mProject Load (0.2ms)[0m  [1m[34mSELECT "projects".* FROM "projects" WHERE (team_id = NULL)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mTeam Load (0.1ms)[0m  [1m[34mSELECT "teams".* FROM "teams" WHERE (id = NULL)[0m
+  [1m[36mPublicActivity::Activity Load (2.2ms)[0m  [1m[34mSELECT "activities".* FROM "activities" WHERE "activities"."owner_id" = 3 AND "activities"."owner_type" = $1 ORDER BY created_at DESC[0m  [["owner_type", "User"]]
+  Rendered home/_dashboard.html.erb (7.3ms)
+  Rendered home/index.html.erb within layouts/application (8.5ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 1237ms (ActiveRecord: 16.2ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__3630376105444873425_2599914660'
+
+Started POST "/__better_errors/a959d93543c81582/variables" for 127.0.0.1 at 2022-06-15 15:16:35 +0700
+Started GET "/" for 127.0.0.1 at 2022-06-16 16:04:29 +0700
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.3ms)
+  Rendered home/index.html.erb within layouts/application (2.1ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 802ms (ActiveRecord: 5.8ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__2095712396384584943_2753576980'
+
+Started POST "/__better_errors/a785e2af43091d09/variables" for 127.0.0.1 at 2022-06-16 16:04:30 +0700
+  [1m[36mPublicActivity::Activity Load (2.9ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-16 17:11:37 +0700
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.3ms)
+  Rendered home/index.html.erb within layouts/application (1.9ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 816ms (ActiveRecord: 1.8ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__3653237896797745401_2620470740'
+
+Started POST "/__better_errors/c2184710e96b4bbd/variables" for 127.0.0.1 at 2022-06-16 17:11:39 +0700
+  [1m[36mPublicActivity::Activity Load (1.5ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-16 17:11:42 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (1.1ms)
+  Rendered home/index.html.erb within layouts/application (4.1ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 297ms (ActiveRecord: 0.0ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__3653237896797745401_2378591320'
+
+Started POST "/__better_errors/1a6295c83ca93eea/variables" for 127.0.0.1 at 2022-06-16 17:11:42 +0700
+  [1m[36mPublicActivity::Activity Load (0.5ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-16 17:14:46 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (1.1ms)
+  Rendered home/index.html.erb within layouts/application (4.2ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 295ms (ActiveRecord: 0.0ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__3653237896797745401_2379825720'
+
+Started POST "/__better_errors/63c20053b9cdac2d/variables" for 127.0.0.1 at 2022-06-16 17:14:46 +0700
+  [1m[36mPublicActivity::Activity Load (0.7ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-16 17:16:49 +0700
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.3ms)
+  Rendered home/index.html.erb within layouts/application (1.5ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 795ms (ActiveRecord: 1.3ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___3855055922332130482_2574079440'
+
+Started POST "/__better_errors/42dbcb4501b9a0be/variables" for 127.0.0.1 at 2022-06-16 17:16:50 +0700
+  [1m[36mPublicActivity::Activity Load (1.2ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-17 13:23:54 +0700
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.3ms)
+  Rendered home/index.html.erb within layouts/application (1.8ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 873ms (ActiveRecord: 7.8ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___3570325051900861540_2370803780'
+
+Started POST "/__better_errors/053b5b8dab1b1930/variables" for 127.0.0.1 at 2022-06-17 13:23:55 +0700
+  [1m[36mPublicActivity::Activity Load (2.6ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-17 13:25:13 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.7ms)
+  Rendered home/index.html.erb within layouts/application (2.9ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 349ms (ActiveRecord: 0.0ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___3570325051900861540_2363201280'
+
+Started POST "/__better_errors/914caddd542983f8/variables" for 127.0.0.1 at 2022-06-17 13:25:14 +0700
+  [1m[36mPublicActivity::Activity Load (0.4ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-17 13:25:59 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.8ms)
+  Rendered home/index.html.erb within layouts/application (4.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 322ms (ActiveRecord: 0.0ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___3570325051900861540_2208213880'
+
+Started POST "/__better_errors/f6237c7c91f59796/variables" for 127.0.0.1 at 2022-06-17 13:26:00 +0700
+  [1m[36mPublicActivity::Activity Load (0.4ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-17 13:26:18 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (1.1ms)
+  Rendered home/index.html.erb within layouts/application (4.9ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 315ms (ActiveRecord: 0.0ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___3570325051900861540_2362662660'
+
+Started POST "/__better_errors/cd763484e2a32356/variables" for 127.0.0.1 at 2022-06-17 13:26:18 +0700
+  [1m[36mPublicActivity::Activity Load (0.5ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-17 13:26:19 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.6ms)
+  Rendered home/index.html.erb within layouts/application (2.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 297ms (ActiveRecord: 0.0ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___3570325051900861540_2213552320'
+
+Started POST "/__better_errors/87e4005b9581f7ef/variables" for 127.0.0.1 at 2022-06-17 13:26:19 +0700
+  [1m[36mPublicActivity::Activity Load (0.5ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-17 13:32:51 +0700
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.3ms)
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 818ms (ActiveRecord: 1.1ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__3304864053570289929_2850547900'
+
+Started POST "/__better_errors/31ca2b68a0c99d49/variables" for 127.0.0.1 at 2022-06-17 13:32:52 +0700
+  [1m[36mPublicActivity::Activity Load (3.1ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/articles" for 127.0.0.1 at 2022-06-17 13:35:34 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/articles"):
+  
+actionpack (5.1.5) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.5) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.5) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.5) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.5) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.5) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+webpacker (3.2.2) lib/webpacker/dev_server_proxy.rb:18:in `perform_request'
+rack-proxy (0.6.3) lib/rack/proxy.rb:57:in `call'
+railties (5.1.5) lib/rails/engine.rb:522:in `call'
+puma (3.11.2) lib/puma/configuration.rb:225:in `call'
+puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.2) lib/puma/server.rb:438:in `process_client'
+puma (3.11.2) lib/puma/server.rb:302:in `block in run'
+puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2022-06-17 13:36:42 +0700
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.5ms)
+  Rendered home/index.html.erb within layouts/application (2.3ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 303ms (ActiveRecord: 0.0ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb__3304864053570289929_2606967060'
+
+Started POST "/__better_errors/a311c2cd3211094c/variables" for 127.0.0.1 at 2022-06-17 13:36:43 +0700
+  [1m[36mPublicActivity::Activity Load (0.6ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-17 13:37:55 +0700
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.2ms)
+  Rendered home/index.html.erb within layouts/application (1.4ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 778ms (ActiveRecord: 1.6ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___197266098821166414_2508948280'
+
+Started POST "/__better_errors/3e56471402d83bcd/variables" for 127.0.0.1 at 2022-06-17 13:37:56 +0700
+  [1m[36mPublicActivity::Activity Load (1.7ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
+Started GET "/" for 127.0.0.1 at 2022-06-17 13:42:06 +0700
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/_home.html.erb (0.3ms)
+  Rendered home/index.html.erb within layouts/application (1.6ms)
+[Webpacker] Compiling…
+[Webpacker] Compiled all packs in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs
+Completed 401 Unauthorized in 797ms (ActiveRecord: 1.0ms)
+
+
+
+Webpacker::Manifest::MissingEntryError - Webpacker can't find projekt.js in /Users/Shared/project/GR1_WebsiteProjectsManagement/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+:
+  app/views/layouts/application.html.erb:11:in `_app_views_layouts_application_html_erb___2814984110526316366_2580014260'
+
+Started POST "/__better_errors/7d3e4e881cea1db0/variables" for 127.0.0.1 at 2022-06-17 13:42:07 +0700
+  [1m[36mPublicActivity::Activity Load (1.3ms)[0m  [1m[34mSELECT  "activities".* FROM "activities" WHERE "activities"."owner_id" IS NULL AND "activities"."owner_type" = $1 ORDER BY created_at DESC LIMIT $2[0m  [["owner_type", "User"], ["LIMIT", 11]]
